@@ -10,6 +10,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
     <item>
+      <title>Banks and Private Credit Risks</title>
+      <description>This episode examines the systemic risks arising from banks shifting their direct corporate lending to indirect exposures through private credit funds. The panel debates whether valuation smoothing in private markets acts as a stabilizing feature or a dangerous illusion that hides credit deterioration.</description>
+      <guid isPermaLink="false">ep-3e4d0eb589aa28e4</guid>
+      <pubDate>Mon, 06 Jul 2026 13:47:03 GMT</pubDate>
+      <enclosure url="https://github.com/daldaman/radio-feed/releases/download/ep-3e4d0eb589aa28e4/episode.mp3" length="20929141" type="audio/mpeg"/>
+      <itunes:duration>00:14:31</itunes:duration>
+      <itunes:author>Paul</itunes:author>
+      <itunes:image href="https://github.com/daldaman/radio-feed/releases/download/ep-3e4d0eb589aa28e4/cover.jpg"/>
+    </item>
+    <item>
       <title>The Evolution of Modern Banking</title>
       <description>This episode explores how banks act as crucial information processors through delegated monitoring and soft information. The discussion compares traditional relationship banking with modern algorithmic fintech solutions, highlighting the enduring value of human nuance during crises.</description>
       <guid isPermaLink="false">ep-4bb66bcf20bfeca5</guid>
