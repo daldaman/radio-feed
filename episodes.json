@@ -1,5 +1,16 @@
 [
   {
+    "guid": "ep-eaf0d3b2c14ae1e0",
+    "title": "AI: Entrepreneurial Boom or Bust?",
+    "summary": "This episode explores the impact of AI on business formation, discussing whether generative AI is democratizing entrepreneurship or creating a digital divide. Experts debate current trends in corporate AI adoption, highlighting the gap between employee enthusiasm and executive skepticism.",
+    "host": "Paul",
+    "durationSec": 1009,
+    "pubDate": "2026-07-20T15:18:13.422Z",
+    "audioUrl": "https://github.com/daldaman/radio-feed/releases/download/ep-eaf0d3b2c14ae1e0/episode.mp3",
+    "audioBytes": 24232481,
+    "coverUrl": "https://github.com/daldaman/radio-feed/releases/download/ep-eaf0d3b2c14ae1e0/cover.png"
+  },
+  {
     "guid": "ep-3e4d0eb589aa28e4",
     "title": "Banks and Private Credit Risks",
     "summary": "This episode examines the systemic risks arising from banks shifting their direct corporate lending to indirect exposures through private credit funds. The panel debates whether valuation smoothing in private markets acts as a stabilizing feature or a dangerous illusion that hides credit deterioration.",
