@@ -10,6 +10,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
     <item>
+      <title>The Plumbing of Modern Finance</title>
+      <description>This episode examines three recent working papers on the evolving landscape of fintech search costs, private credit structures, and stablecoin dollarisation. Experts discuss how digital networks are decoupling from traditional policy tools and creating permanent shifts in financial behavior.</description>
+      <guid isPermaLink="false">ep-e7632602a1d9d315</guid>
+      <pubDate>Fri, 31 Jul 2026 19:59:15 GMT</pubDate>
+      <enclosure url="https://github.com/daldaman/radio-feed/releases/download/ep-e7632602a1d9d315/episode.mp3" length="3710267" type="audio/mpeg"/>
+      <itunes:duration>00:02:35</itunes:duration>
+      <itunes:author>Paul</itunes:author>
+    </item>
+    <item>
       <title>AI: Entrepreneurial Boom or Bust?</title>
       <description>This episode explores the impact of AI on business formation, discussing whether generative AI is democratizing entrepreneurship or creating a digital divide. Experts debate current trends in corporate AI adoption, highlighting the gap between employee enthusiasm and executive skepticism.</description>
       <guid isPermaLink="false">ep-eaf0d3b2c14ae1e0</guid>
