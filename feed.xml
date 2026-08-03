@@ -10,6 +10,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
     <item>
+      <title>Banking and Credit Research Roundtable</title>
+      <description>Experts Nils, Sarah, and Rajesh join host Paul to discuss three recent academic papers on credit surfaces, fintech borrower behavior, and the capitalization of private credit funds. The roundtable explores how empirical data is reshaping our understanding of risk, search costs, and financial stability in the modern economy.</description>
+      <guid isPermaLink="false">ep-9edd308a7d845d34</guid>
+      <pubDate>Mon, 03 Aug 2026 13:09:26 GMT</pubDate>
+      <enclosure url="https://github.com/daldaman/radio-feed/releases/download/ep-9edd308a7d845d34/episode.mp3" length="21444525" type="audio/mpeg"/>
+      <itunes:duration>00:17:52</itunes:duration>
+      <itunes:author>Paul</itunes:author>
+    </item>
+    <item>
       <title>AI: Entrepreneurial Boom or Bust?</title>
       <description>This episode explores the impact of AI on business formation, discussing whether generative AI is democratizing entrepreneurship or creating a digital divide. Experts debate current trends in corporate AI adoption, highlighting the gap between employee enthusiasm and executive skepticism.</description>
       <guid isPermaLink="false">ep-eaf0d3b2c14ae1e0</guid>
