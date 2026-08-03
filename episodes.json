@@ -1,5 +1,16 @@
 [
   {
+    "guid": "ep-377c4b2f87b44ee5",
+    "title": "Unsupervised Learning in Credit Risk",
+    "summary": "This episode explores the intersection of unsupervised machine learning and financial risk management, highlighting how unstructured data can predict credit defaults. Experts Aris and Sarah discuss the technical architectures of deep clustering and the regulatory challenges of model explainability in finance.",
+    "host": "Paul",
+    "durationSec": 597,
+    "pubDate": "2026-08-03T14:38:02.962Z",
+    "audioUrl": "https://github.com/daldaman/radio-feed/releases/download/ep-377c4b2f87b44ee5/episode.mp3",
+    "audioBytes": 14336880,
+    "coverUrl": "https://github.com/daldaman/radio-feed/releases/download/ep-377c4b2f87b44ee5/cover.jpg"
+  },
+  {
     "guid": "ep-9edd308a7d845d34",
     "title": "Banking and Credit Research Roundtable",
     "summary": "Experts Nils, Sarah, and Rajesh join host Paul to discuss three recent academic papers on credit surfaces, fintech borrower behavior, and the capitalization of private credit funds. The roundtable explores how empirical data is reshaping our understanding of risk, search costs, and financial stability in the modern economy.",
