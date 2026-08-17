@@ -1,5 +1,16 @@
 [
   {
+    "guid": "ep-8ac4d61a31d077bd",
+    "title": "The Global Climate Engine: ENSO",
+    "summary": "Host Paul and guests explore the complex mechanics and global impacts of the El Niño Southern Oscillation. The discussion spans from the ancient engineering used to survive floods to the modern satellite and buoy arrays that allow scientists to forecast climate patterns months in advance.",
+    "host": "Paul",
+    "durationSec": 589,
+    "pubDate": "2026-08-17T15:58:55.014Z",
+    "audioUrl": "https://github.com/daldaman/radio-feed/releases/download/ep-8ac4d61a31d077bd/episode.mp3",
+    "audioBytes": 14141902,
+    "coverUrl": "https://github.com/daldaman/radio-feed/releases/download/ep-8ac4d61a31d077bd/cover.png"
+  },
+  {
     "guid": "ep-377c4b2f87b44ee5",
     "title": "Unsupervised Learning in Credit Risk",
     "summary": "This episode explores the intersection of unsupervised machine learning and financial risk management, highlighting how unstructured data can predict credit defaults. Experts Aris and Sarah discuss the technical architectures of deep clustering and the regulatory challenges of model explainability in finance.",
